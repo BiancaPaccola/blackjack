@@ -1,10 +1,10 @@
-let cartasUsuario = []
+function iniciar () {
+   let cartasUsuario = []
 let cartasComputador = []
 let valorUsuario = 0
 let valorComputador = 0
 let encerraJogo = false
-
-if(window.confirm(`Bem-vinde ao jogo de BlackJack! ♣️ ♦️ ♥️ ♠️
+   if(window.confirm(`Bem-vinde ao jogo de BlackJack! ♣️ ♦️ ♥️ ♠️
 Quer iniciar uma nova rodada?`)){
 let rodadaUsuario1 = comprarCarta()
 let rodadaUsuario2 = comprarCarta()
@@ -77,5 +77,6 @@ if (window.confirm(`Suas cartas são ${cartasUsuario}. A carta revelada do compu
    window.alert(`Usuário - Cartas: ${cartasUsuario} - Pontuação: ${valorUsuario}
    Computador - Cartas: ${cartasComputador} - Pontuação: ${valorComputador}
    O computador ganhou!`)
+}
 }
 }
