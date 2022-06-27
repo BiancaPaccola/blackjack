@@ -5,6 +5,7 @@ O arquivo das cartas disponibilizado pela escola.
 Aquivo que codei: desafio.js
 
 **Instruções:**
+* Clique no botão 'Iniciar nova rodada'
 * Dê Ok para iniciar uma nova rodada;
 * Serão sorteadas 2 cartas para cada jogador (o usuário e a máquina);
 * A carta 'A' vale 11 pontos;
@@ -18,3 +19,6 @@ Aquivo que codei: desafio.js
     *  quem não estourar os pontos, ao quem estourar menos;                   
 * Caso os pontos sejam iguais ao final, resultará em empate;
 * Para iniciar uma nova partida, atualize a página.
+
+![image](https://user-images.githubusercontent.com/102427205/175851935-625bb65c-d644-4273-9989-555318b9e148.png)
+![image](https://user-images.githubusercontent.com/102427205/175851978-b01d5299-ea0d-495d-8c3f-5ebfce4be3cb.png)
