@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-image: url(./cartas.jpg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+}
