@@ -20,5 +20,7 @@ Aquivo que codei: desafio.js
 * Caso os pontos sejam iguais ao final, resultará em empate;
 * Para iniciar uma nova partida, atualize a página.
 
+[Jogue Aqui](https://biancapaccola.github.io/blackjack/)
+
 ![image](https://user-images.githubusercontent.com/102427205/175851935-625bb65c-d644-4273-9989-555318b9e148.png)
 ![image](https://user-images.githubusercontent.com/102427205/175851978-b01d5299-ea0d-495d-8c3f-5ebfce4be3cb.png)
