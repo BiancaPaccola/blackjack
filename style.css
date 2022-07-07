@@ -4,8 +4,8 @@
 
 body{
     background-image: url("./cartas.jpg");
-    background-size: 100vw;
-    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
